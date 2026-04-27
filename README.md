@@ -13,7 +13,7 @@
 # 💫 About Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-00F7FF?style=for-the-badge&logo=icloud&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-00F7FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/System%20Design-6C63FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Scalable%20Systems-00C853?style=for-the-badge"/>
 </p>
@@ -28,22 +28,37 @@ Strong interest in system design, distributed systems, and real-world problem so
 
 # 🛠️ Tech Stack
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins" />
+<img src="https://skillicons.dev/icons?i=aws,azure" />
 </p>
 
-### 💻 Backend & Programming
+### ⚙️ DevOps & Containerization
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,git,github" />
+</p>
+
+### 💻 Programming & Backend
 <p>
 <img src="https://skillicons.dev/icons?i=python,flask" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Databases
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 📊 Monitoring
+### 🌐 Networking & Security
+<p>
+<img src="https://img.shields.io/badge/TCP%2FIP-0078D6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Subnetting-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Routing-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF5722?style=for-the-badge"/>
+</p>
+
+### 📊 Monitoring & Observability
 <p>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </p>
@@ -53,14 +68,18 @@ Strong interest in system design, distributed systems, and real-world problem so
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
 </p>
 
-### 🌐 Networking & Security Tools
+### 🤖 Domains
 <p>
-<img src="https://img.shields.io/badge/TCP%2FIP-0078D6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Subnetting-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Routing-FF9800?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF5722?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IoT-00BCD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/gopiO-O/gopiO-O/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
