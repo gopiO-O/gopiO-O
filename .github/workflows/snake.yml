@@ -1,9 +1,9 @@
 name: Snake Animation
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,14 +13,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: gopiO-O
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push to output branch
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: output
           build_dir: dist
