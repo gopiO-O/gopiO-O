@@ -10,7 +10,7 @@
 
 ---
 
-# 💫 About Me
+# About Me
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-00F7FF?style=for-the-badge"/>
@@ -26,29 +26,29 @@ Strong interest in system design, distributed systems, and real-world problem so
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
-### ☁️ Cloud Platforms
+### Cloud Platforms
 <p>
 <img src="https://skillicons.dev/icons?i=aws,azure" />
 </p>
 
-### ⚙️ DevOps & Containerization
+### DevOps & Containerization
 <p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,git,github" />
 </p>
 
-### 💻 Programming & Backend
+### Programming & Backend
 <p>
 <img src="https://skillicons.dev/icons?i=python,flask" />
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🌐 Networking & Security
+### Networking & Security
 <p>
 <img src="https://img.shields.io/badge/TCP%2FIP-0078D6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Subnetting-4CAF50?style=for-the-badge"/>
@@ -58,17 +58,17 @@ Strong interest in system design, distributed systems, and real-world problem so
 <img src="https://img.shields.io/badge/Burp%20Suite-FF5722?style=for-the-badge"/>
 </p>
 
-### 📊 Monitoring & Observability
+### Monitoring & Observability
 <p>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </p>
 
-### 🖥️ Operating Systems
+### Operating Systems
 <p>
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
 </p>
 
-### 🤖 Domains
+### Domains
 <p>
 <img src="https://img.shields.io/badge/IoT-00BCD4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
@@ -76,7 +76,7 @@ Strong interest in system design, distributed systems, and real-world problem so
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <p align="center">
   <img src="https://github.com/gopiO-O/gopiO-O/blob/output/github-contribution-grid-snake.svg"/>
@@ -84,7 +84,7 @@ Strong interest in system design, distributed systems, and real-world problem so
 
 ---
 
-# 🌐 Connect
+# Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gopi-krishnan-376a0927b/">
