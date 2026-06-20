@@ -10,99 +10,61 @@
 
 ---
 
-# 👋 About Me
+# Professional Summary
 
-AI Engineer with hands-on experience in Python, Machine Learning, Deep Learning, NLP, Computer Vision, and cloud-based AI applications.
-
-- 🔭 Currently working as **Machine Learning Engineer @ Karuviyan Innovatives**
-- 🌱 Exploring **LLMs, RAG, MCP, and Generative AI**
-- 💡 Interested in **AI Systems, NLP, Computer Vision, and MLOps**
-- ☁ Experience with **AWS and Azure**
-- 🚀 Passionate about building scalable intelligent systems
+AI Engineer with hands-on experience in Python, Machine Learning, Deep Learning, and cloud-based AI applications. Proficient in building and deploying AI/ML solutions using Scikit-learn, TensorFlow, and PyTorch, with strong skills in data preprocessing, feature engineering, model training, and performance optimization. Experienced in Computer Vision, NLP, and integrating ML pipelines on AWS and Azure. Passionate about Generative AI and LLM-based systems, with a focus on building scalable and intelligent solutions.
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
-## Languages
+## Programming Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-## AI & Machine Learning
+## AI/ML Frameworks
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD43B?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/YOLO-FF4088?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD43B?style=for-the-badge"/>
+</p>
 
-## Generative AI
-![LLMs](https://img.shields.io/badge/LLMs-blue?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-green?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-orange?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-yellow?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-red?style=for-the-badge)
+## Machine Learning & Generative AI
+<p>
+<img src="https://img.shields.io/badge/LLMs-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-34A853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-EA4335?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-9C27B0?style=for-the-badge"/>
+</p>
 
-## Cloud
+## Computer Vision
+<p>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLO-FF4088?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Object%20Detection-2196F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Image%20Classification-4CAF50?style=for-the-badge"/>
+</p>
+
+## Cloud & Databases
 <p>
 <img src="https://skillicons.dev/icons?i=aws,azure" />
 </p>
 
-## DevOps & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,jenkins,terraform,ansible,docker" />
+<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS%20Athena-232F3E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge"/>
 </p>
 
----
-
-# 🚀 Featured Projects
-
-### 🌊 Underwater Robot for Inspection and Salvage
-- Computer Vision using TensorFlow and OpenCV
-- Trained CNN models on 30,000+ images
-- Real-time water quality prediction
-- Integrated Grok LLM with MCP
-
----
-
-### 🌱 Intelligent Seed Prediction System
-- Machine Learning with Scikit-Learn
-- Feature Engineering and EDA
-- Flask-based deployment
-- Azure integration
-
----
-
-# 🏆 Achievements
-
-🥇 HackHarvard Finalist - Harvard University
-
-🥇 HackMIT Finalist - Massachusetts Institute of Technology
-
-🥇 IIT-Madras Think Create Engineer Winners
-
-🥇 IIIT-Kottayam Summit Project Contest Winners
-
-🥇 IIT-Bombay e-Yantra Top Performer
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gopiO-O&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gopiO-O&theme=tokyonight" height="170"/>
-</p>
-
----
-
-# 📊 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopiO-O&layout=compact&theme=tokyonight"/>
+## Development & DevOps Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,terraform,ansible,docker,vscode" />
 </p>
 
 ---
@@ -115,9 +77,10 @@ AI Engineer with hands-on experience in Python, Machine Learning, Deep Learning,
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/gopi-krishnan-376a0927b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -126,13 +89,14 @@ AI Engineer with hands-on experience in Python, Machine Learning, Deep Learning,
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://scholar.google.com/">
-<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<a href="https://github.com/gopiO-O">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
 </p>
