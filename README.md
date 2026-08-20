@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Gopi%20Krishnan%20P&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Gopi%20Krishnan%20&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- Typing Animation -->
